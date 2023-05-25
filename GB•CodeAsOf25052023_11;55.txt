@@ -1,0 +1,361 @@
+/* CLIPPING PATH - FIRST PAGE - SECTION TWO */
+/* section[data-section-id="64578c8920b3f62db319d4bf"] { clip-path: inset(0 50% 0 0); } */
+
+@media only screen and (max-width: 640px) {
+section[data-section-id="64578c8920b3f62db319d4bf"] .section-background { clip-path: polygon(0% 0%, 80% 0%, 80% 100%, 0% 100%);
+background-color: #222  }
+}
+/**/
+@media only screen and (min-width: 641px) and (max-width: 949px) {
+section[data-section-id="64578c8920b3f62db319d4bf"] .section-background { clip-path: polygon(0% 0%, 100% 0%, 80% 100%, 0% 100%);
+background-color: #222  }
+}
+/**/
+@media only screen and (min-width: 951px) {
+section[data-section-id="64578c8920b3f62db319d4bf"] .section-background { clip-path: polygon(80% 0%, 100% 0%, 80% 100%, 0% 100%);
+background-color: #222  }
+}
+/**/
+/**/
+/**/
+/* FONT TWEAKS */
+/* — — — MOBILE — — — */
+@media only screen and (max-width: 640px)
+{ h1 { color: rgba(0.1,0.1,0.1,0.62) !important;
+background-color: none !important;
+font-size: 2.5rem !important;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.05em !important;
+line-height: 0em !important; } } 
+
+@media only screen and (max-width: 640px)
+{ h2 { color: rgba(0.1,0.1,0.1,0.72) !important;
+background-color: none !important;
+font-size: 2.4rem /*!important*/;
+font-weight: 900 !important;
+font-style: italic !important;
+text-transform: none !important;
+letter-spacing: -0.02em !important;
+line-height: 0em !important; } } 
+
+@media only screen and (max-width: 640px)
+{ h3 { color: rgba(0.1,0.1,0.1,0.82) !important;
+background-color: none !important;
+font-size: 2.4rem /*!important*/;
+font-weight: 400 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 2.7rem !important;
+ } } 
+
+@media only screen and (max-width: 640px)
+{ h4 { color: rgba(0.1,0.1,0.1,0.92) !important;
+background-color: none !important;
+font-size: 1.3rem /*!important*/;
+font-weight: 400 !important;
+text-transform: none !important;
+letter-spacing: -0.00em !important;
+line-height: 1.8rem !important; } } 
+
+@media only screen and (max-width: 640px)
+{ .sqsrte-large { color: rgba(0.1,0.1,0.1,1) !important;
+background-color: none !important;
+font-size: 1.5rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 1.9rem !important;
+ } } 
+
+@media only screen and (max-width: 640px)
+{ p { color: rgba(0.1,0.1,0.1,1) !important;
+background-color: none !important;
+font-size: 1.25rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 1.8rem !important; } } 
+
+@media only screen and (max-width: 640px)
+{ .sqsrte-small { color: rgba(0.1,0.1,0.1,1) !important;
+background-color: none !important;
+font-size: 1.125rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 1.7rem !important; } } 
+
+@media only screen and (max-width: 640px)
+{ pre code { color: rgba(242,13,13,1) !important;
+/*background-color: none !important;*/
+font-size: 1.25rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.015em !important;
+line-height: 1.5rem !important; } }
+
+
+/* — — — TABLET — — — */
+@media only screen and (min-width: 641px) and (max-width: 949px)
+{ h1 { color: rgba(0.1,0.1,0.1,0.62) !important;
+background-color: none !important;
+font-size: 7rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.05em !important;
+line-height: 6.5rem !important; } } 
+
+@media only screen and (min-width: 641px) and (max-width: 949px)
+{ h2 { color: rgba(0.1,0.1,0.1,0.72) !important;
+background-color: none !important;
+font-size: 3.4rem /*!important*/;
+font-weight: 900 !important;
+font-style: italic !important;
+text-transform: none !important;
+letter-spacing: -0.02em !important;
+line-height: 3.6rem !important; } } 
+
+@media only screen and (min-width: 641px) and (max-width: 949px)
+{ h3 { color: rgba(0.1,0.1,0.1,0.82) !important;
+background-color: none !important;
+font-size: 2.4rem /*!important*/;
+font-weight: 400 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 2.7rem !important;
+ } } 
+
+@media only screen and (min-width: 641px) and (max-width: 949px)
+{ h4 { color: rgba(0.1,0.1,0.1,0.92) !important;
+background-color: none !important;
+font-size: 1.3rem /*!important*/;
+font-weight: 400 !important;
+text-transform: none !important;
+letter-spacing: -0.00em !important;
+line-height: 1.8rem !important; } } 
+
+@media only screen and (min-width: 641px) and (max-width: 949px)
+{ .sqsrte-large { color: rgba(0.1,0.1,0.1,1) !important;
+background-color: none !important;
+font-size: 1.5rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 1.9rem !important;
+ } } 
+
+@media only screen and (min-width: 641px) and (max-width: 949px)
+{ p { color: rgba(0.1,0.1,0.1,1) !important;
+background-color: none !important;
+font-size: 1.25rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 1.8rem !important; } } 
+
+@media only screen and (min-width: 641px) and (max-width: 949px)
+{ .sqsrte-small { color: rgba(0.1,0.1,0.1,1) !important;
+background-color: none !important;
+font-size: 1.125rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 1.7rem !important; } } 
+
+@media only screen and (min-width: 641px) and (max-width: 949px)
+{ pre code { color: rgba(242,13,13,1) !important;
+/*background-color: none !important;*/
+font-size: 1.25rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.015em !important;
+line-height: 1.5rem !important; } }
+
+/**/
+
+/* — — — FONT NORMALISATION DESKTOP  — — — */
+@media only screen and (min-width: 951px)
+{ h1 {
+font-family: 'Source Sans Pro', sans-serif !important;
+color: rgba(0.1,0.1,0.1,0.62) !important;
+background-color: none !important;
+font-size: 7rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.05em !important;
+line-height: 1em !important;
+/* word-spacing: .25rem !important; */
+} }
+/*h1 strong {background-color: rgba(0.1,0.1,0.1,0.56) !important;}
+h1 strong em {background-color: rgba(255,0.1,0.1,0.56) !important;}*/
+/**/
+@media only screen and (min-width: 951px)
+{ h2 {
+font-family: 'Source Sans Pro', sans-serif !important;
+color: rgba(0.1,0.1,0.1,0.72) !important;
+background-color: none !important;
+font-size: 3.4rem /*!important*/;
+font-weight: 900 !important;
+font-style: italic !important;
+text-transform: none !important;
+letter-spacing: -0.02em !important;
+line-height: 0em !important;
+} }
+/**/
+@media only screen and (min-width: 951px)
+{ h3 {
+font-family: 'Source Sans Pro', sans-serif !important;
+color: rgba(0.1,0.1,0.1,0.82) !important;
+background-color: none !important;
+font-size: 2.4rem /*!important*/;
+font-weight: 400 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 2.7rem !important;
+} }
+/**/
+h4 {
+font-family: 'Source Sans Pro', sans-serif !important;
+color: rgba(0.1,0.1,0.1,0.92) !important;
+background-color: none !important;
+font-size: 1.25rem /*!important*/;
+font-weight: 400 !important;
+text-transform: none !important;
+letter-spacing: -0.00em !important;
+line-height: 1.75rem !important;
+}
+/**/
+@media only screen and (min-width: 951px)
+ {.sqsrte-large {
+font-family: 'Source Sans Pro', sans-serif !important;
+color: rgba(0.1,0.1,0.1,1) !important;
+background-color: none !important;
+font-size: 1.5rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 1.9rem !important;
+} }
+/**/
+@media only screen and (min-width: 951px)
+{ p {
+font-family: 'Source Sans Pro', sans-serif !important;
+color: rgba(0.1,0.1,0.1,1) !important;
+background-color: none !important;
+font-size: 1.25rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 1.8rem !important;
+} }
+/**/
+@media only screen and (min-width: 951px)
+{ .sqsrte-small {
+font-family: 'Source Sans Pro', sans-serif !important;
+color: rgba(0.1,0.1,0.1,1) !important;
+background-color: none !important;
+font-size: 1.125rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 1.7rem !important;
+} }
+/**/
+@media only screen and (min-width: 951px)
+{ pre code {
+font-family: 'Source Code Pro', monospace !important;
+color: rgba(242,13,13,1) !important;
+/*background-color: none !important;*/
+font-size: 1.25rem /*!important*/;
+font-weight: 300 !important;
+text-transform: none !important;
+letter-spacing: -0.015em !important;
+line-height: 1.5rem !important;
+} }
+/**/
+/**/
+/*
+@media only screen and (max-width: 640px){ pre code {
+font-family: 'Source Code Pro', monospace !important;
+color: rgba(13,13,242,1) !important;
+background-color: none !important;
+font-size: 0.75rem !important;
+font-weight: 400 !important;
+text-transform: none !important;
+letter-spacing: -0.01em !important;
+line-height: 0.80rem !important;
+  }}
+*/
+/* H1 OUTLINE */
+/* h1 {
+  -webkit-text-fill-color: transparent !important;
+  -webkit-text-stroke-width: 2px !important;
+  -webkit-text-stroke-color: rgba(0.1,0.1,0.1,0.5) !important;
+}
+*/
+/**/
+
+/**/
+/**/
+/**/
+/* USED FONT FAMILIES */
+/*font-family: 'Source Code Pro', monospace !important;
+font-family: 'Source Sans Pro', sans-serif !important;*/
+/**/
+/**/
+/**/
+/* FLUID FONT */
+/* h1 {@include fluid-font(3vw, 20px, 55px, 35px);} */
+ /**/
+/**/
+/**/
+/* HYPHEN TWEAKS */
+/* HYPHEN: NONE */
+a, h1, h2, h3, h4, .sqsrte-large, .sqsrte-small, p, pre code {hyphens: none !important}
+/* MANUAL HYPHEN
+a, h1, h2, h3, h4, .sqsrte-large, .sqsrte-small, p, pre code {
+-webkit-hyphens: manual !important;
+-moz-hyphens: manual !important;
+-ms-hyphens: manual !important;
+hyphens: manual !important;
+  }
+ */
+/* AUTO HYPHEN
+a, h1, h2, h3, h4, .sqsrte-large, .sqsrte-small, p, pre code, {
+-webkit-hyphens: auto !important;
+-moz-hyphens: auto !important;
+-ms-hyphens: auto !important;
+hyphens: auto !important;
+  }
+*/
+/*p, h3, h2, h1, div, span, input, p a, ul li {
+  -webkit-hyphens: manual !important;
+  -moz-hyphens: manual !important;
+  -ms-hyphens: manual !important;
+  hyphens: manual !important;
+ }
+*/
+/**/
+/**/
+/**/
+
+/* CLAMP FONT SIZE */
+/* h1 {clamp(1rem, 3vw, 2rem) !important;} */
+
+/* CALC FONT SIZE */
+/* font-size: calc(16px+50vw) !important; */
+/**/
+/**/
+/**/
+/* HOMEPAGE TWEAKS */
+/* HOMEPAGE IMAGE 
+body.homepage header#header img {
+	visibility: hidden;
+}
+*/
+/* HOMEPAGE TEXT 
+.homepage a#site-title {
+    visibility: hidden;
+}
+*/
